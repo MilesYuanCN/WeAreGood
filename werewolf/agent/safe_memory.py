@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# Topic : safe_memory
-# Author: 灵息 lingxi@alibaba-inc.com
-# Date  : 20250612
 from typing import Dict, Any, List
 
 

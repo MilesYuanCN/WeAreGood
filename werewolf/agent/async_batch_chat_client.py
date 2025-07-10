@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# Topic : batch_chat_creator
-# Author: 灵息 lingxi@alibaba-inc.com
-# Date  : 20250610
 import asyncio
 from typing import Union
 

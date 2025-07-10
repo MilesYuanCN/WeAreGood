@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# Topic : role_agent_pro
-# Author: 灵息 lingxi@alibaba-inc.com
-# Date  : 20250610
 import os
 import re
 import random

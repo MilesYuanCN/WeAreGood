@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# Topic : sample_md_prompt
-# Author: 灵息 lingxi@alibaba-inc.com
-# Date  : 20250610
 from agent_build_sdk.utils import logger
 from langchain import PromptTemplate
 
